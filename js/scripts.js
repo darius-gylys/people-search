@@ -2,7 +2,6 @@ let nameInput = document.getElementById("Name");
 let birthInput = document.getElementById("birth_date");
 let OutputEl = document.getElementById("result");
 let OutputEl2 = document.getElementById("people");
-let OutputEl3 = document.getElementById("phantom");
 let nameVal;     // globaly declared values are accessible within all functions (without passing arguments)
 let birthVal;
 let myZodiac;
